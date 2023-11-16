@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Smaran-Sirimalla/nzp-rs/static/css/main.521b8013.css",
+    "main.js": "/Smaran-Sirimalla/nzp-rs/static/js/main.eeafdc19.js",
+    "static/js/496.5944f655.chunk.js": "/Smaran-Sirimalla/nzp-rs/static/js/496.5944f655.chunk.js",
+    "static/media/icegif-1262.gif": "/Smaran-Sirimalla/nzp-rs/static/media/icegif-1262.81e4bae9e6debe2ca0ee.gif",
+    "static/media/NZP Logo Dark BG_page-0001.jpg": "/Smaran-Sirimalla/nzp-rs/static/media/NZP Logo Dark BG_page-0001.144ac04cd99152b409ad.jpg",
+    "static/media/payment-failed1.png": "/Smaran-Sirimalla/nzp-rs/static/media/payment-failed1.b9ea710e835381b7066a.png",
+    "index.html": "/Smaran-Sirimalla/nzp-rs/index.html",
+    "main.521b8013.css.map": "/Smaran-Sirimalla/nzp-rs/static/css/main.521b8013.css.map",
+    "main.eeafdc19.js.map": "/Smaran-Sirimalla/nzp-rs/static/js/main.eeafdc19.js.map",
+    "496.5944f655.chunk.js.map": "/Smaran-Sirimalla/nzp-rs/static/js/496.5944f655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.521b8013.css",
+    "static/js/main.eeafdc19.js"
+  ]
+}
